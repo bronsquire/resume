@@ -1,155 +1,196 @@
 {
   "basics": {
-    "name": "Steven Edouard",
-    "label": "Developer Evangelist",
-    "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg ",
-    "email": "steven.edouard1@gmail.com",
-    "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Evangelist for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to pursue a role where I can have high impact on a product.",
+    "name": "Bron Squire",
+    "label": "Web Developer",
+    "picture": "",
+    "email": "bron@angelwebdesigns.com.au",
+    "phone": "0414 431 474",
+    "website": "http://angelwebdesigns.com.au",
+    "summary": "Bron lives in Melbourne, Australia, where she has been running her own web consultancy business since 2008, working on an exciting array of website and app developments for a wide range of types of client, as well as taking on a few freelancer/contractor roles to other agencies along the way.  This career focused in the web arena followed an 8 year introdution to the world as a Software Engineer at Logica (now CGI), where she excelled at both softaware development, team leading and a fun stint as a project manager.  This time as proejct manager just helped confirm that Bron's love of the technical world was greater than her love of running a project, for now at least.",
     "location": {
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Wandin North",
+      "countryCode": "AU",
+      "region": "Victoria, Australia"
     },
     "profiles": [
       {
-        "network": "Resume Source",
-        "url": "http://github.com/sedouard/resume",
-        "username": "This Resume is built from this Github Repo"
+        "network": "Twitter",
+        "username": "_bron_",
+        "url": "https://www.twitter.com/_bron_"
       },
       {
-        "network": "Twitter",
-        "username": "sedouard",
-        "url": "http://twitter.com/sedouard"
+        "network": "LinkedIn",
+        "username": "bronsquire",
+        "url": "http://au.linkedin.com/in/bronsquire/en"
       },
       {
         "network": "Github",
-        "username": "sedouard",
-        "url": "https://github.com/sedouard"
+        "username": "bronsquire",
+        "url": "https://github.com/bronsquire"
       }
     ]
   },
   "work": [
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer",
-      "website": "http://microsoft.com",
-      "startDate": "2015-03-16",
-      "summary": "Technical Evangelism and Delivery - Strategic Engagements",
+      "company": "Angel Web Designs",
+      "position": "Web Developer / Owner",
+      "website": "http://angelwebdesigns.com.au",
+      "startDate": "2008-07-01",
+      "summary": "Design, creation and maintenance of websites, including small and medium sized businesses, personal and not-for-profit organisations. My aim is to always build a solution which will provide maximum benefits to the client based on their specific needs, so every site is customised completely for the given customer. I also develop Windows applications to assist in business workflow. My work to date has included both direct work with clients and contracting to agencies for some projects, including:",
       "highlights": [
-        "Responsible for building reusable solutions with Microsoft partners to drive attention and usage to Microsoft products and technologies."
+        "Working with some great clients such as Greyhound Racing NSW, Harness Racing NSW, Baseball Victoria, STA Travel, Melbourne's GPO, Jeanswest to name a few (more listed in my portfolio)",
+        "Technologies have included Microsoft ASP.NET, PHP, HTML, CSS, Javascript, MySQL, Microsoft SQL Server",
+        "Much fun has been had with Jquery, Bootstrap, SASS Preprocessor, REST APIs (consuming and creating), IIS, WAMP and LAMP",
+        "Cloud services including Amazon AWS and Microsoft Azure for site deployment and storage",
+        "Linux and Windows servers have both been setup, used and maintained"
       ]
     },
     {
-      "company": "Microsoft",
-      "position": "Developer Evangelist",
-      "website": "http://microsoft.com",
-      "startDate": "2014-03-04",
-      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
+      "company": "Jeanswest",
+      "position": "Web Developer Contractor",
+      "website": "http://jeanswest.com.au",
+      "startDate": "2008-07-01",
+      "endDate": "2009-01-31",
+      "summary": "In July 2008 I was invited to join Jeanswest on a direct contract, to perform the maintenance of their existing website and web-based CRM/Loyalty program application.  This followed on from my work at True Digital where I was first introduced to the project, and then SMART Melbourne where I had continued this work. I was involved in the maintenance of their websites, and continued to maintain the web server on which their sites all ran until the site was fully redeveloped by a third party.  I also provided consulting on a replacement system for the Jeanswest website, CRM and Email Campaigning.",
       "highlights": [
-        "Drove Azure usage by Student and Startup Developers",
-        "Worked with various Y-Combinator startups to bring linux workloads to Azure",
-        "Delivered Technical Presentations at Various conferences such as TC Disrupt SF, NodeConf Oakland, Stanford & Berkeley Hackathons",
-        "Created various technical content centered around open source on Azure such as blog posts and technical projects"
+        "Technologies included PHP, HTML/CSS, MySQL and Javascript",
+        "maintenance of their email campaign system (Interspire’s Email Marketer, nee SendStudio)",
+        "Maintained the mail server (SmarterMail) which was used for their campaigns"
       ]
     },
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer in Test, Common Language Runtime",
-      "website": "http://www.microsoft.com/net",
-      "startDate": "2012-01-22",
-      "endDate": "2014-03-04",
-      "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
+      "company": "SMART Melbourne",
+      "position": "Web Developer Contractor",
+      "website": "http://smart.com.au",
+      "startDate": "2008-07-01",
+      "endDate": "2008-12-31",
+      "summary": "I joined SMART Melbourne on a contract, following the liquidation of the company True Digital, whom SMART contracted much of their digital work to.  I worked with another developer on the full development of the Greyhound Racing NSW website (www.thedogs.com.au), I acted as senior developer for this work and assisted in training up the other developer in .NET development, and I also managed the client relationship for the majority of the project.  The site was successfully launched in November 2008.",
       "highlights": [
-        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
-        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
-        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
-        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
+        "Technologies included ASP.NET 3.5, HTML, CSS, Javascript, Microsoft SQL Server, as well as PHP and MySQL for some project work",
+        "Development of an entirely new website for Greyhound Racing NSW, which had been planned to be performed by True Digital.",
+        "Maintenance of the existing site which I had been working on at True Digital for Jeanswest",
+        "Planning for the replacement of the CRM system in use by Jeanswest at the time (see above)"
       ]
     },
     {
-      "company": "Lockheed Martin Mission Systems",
-      "position": "Software Engineer Intern (4 summers)",
-      "website": "http://www.lockheedmartin.com",
-      "startDate": "2008-01-22",
-      "endDate": "2011-08-01",
-      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
-      "highlights": [
-        "Designed system requirements for autonomous underwater vehicle ",
-        "Designed and implemented features on common software for use with multiple vehicles ",
-        "Performed software cost estimates",
-        "Implemented software features for sonar system displays"
-      ]
-    }
-  ],
-  "volunteer": [
+      "company": "True Digital",
+      "position": "Technical Directory",
+      "website": "",
+      "startDate": "2008-04-01",
+      "endDate": "2008-07-01",
+      "summary": "My work at True Digital included the maintenance of existing websites that had been created or taken over by the company, as well as the leadership in technical direction for new projects that were underway. I acted as the system administrator of their web server (originally a Linux server running Apache), and later performed a migration of all the existing sites (10+ in use at the time) from that Linux server to a newly acquired Windows Server 2008 system.  I setup and maintained IIS 7.0, PHP, MySQL and SmarterMail on the server, and migrated the sites over, which included an upgrade to both PHP and MySQL. I was involved in the planning and technical management of the commencement of a major project, the development of a new website for Greyhound Racing NSW. Regrettably the company went into liquidation in July 2008, which led to me the contract role at SMART (see above).",
+      "highlights": []
+    },
     {
-      "organization": "TEALS",
-      "position": "Teacher",
-      "website": "http://tealsk12.org",
-      "startDate": "2012-07-01",
-      "endDate": "2013-05-05",
-      "summary": "High school Teacher for an inner-city computer science class.",
+      "company": "Logica (now CGI)",
+      "position": "Project Manager",
+      "website": "http://cgi.com.au",
+      "startDate": "2006-09-01",
+      "endDate": "2008-04-01",
+      "summary": "Logica is an international IT Solutions company.  Their main market sectors include Energy and Utilities, Telecommunications, Financial, Space and Aviation, and Transport. In September 2006 I moved into a Team Leader position on a Support and Maintenance Project, and after around six months I took over the project management.  I then took on the project management of five other small support projects, including one that was supported from Logica’s office in Bangalore. During this time I also continued to perform some development work, investigating and resolving defects and change requests as time permitted around my main role. The main responsibilities in the project management roles included completion of financial and status reports, managing client expectations and reporting to them on a regular basis, and resolving any conflicts of interest.  I was also the driver in the implementation of improved QA processes and methodology on the project, and managed all resourcing.",
+      "highlights": []
+    },
+    {
+      "company": "Logica (now CGI)",
+      "position": "Software Engineer",
+      "website": "http://cgi.com.au",
+      "startDate": "2000-03-01",
+      "endDate": "2006-09-01",
+      "summary": "Prior to my role as a Project Manager, I was originally employed by Logica in March 2000 as a Software Engineer / Analyst.  I was involved in a number of projects, including the following.",
       "highlights": [
-        "Featured in the International New York Times"
+        "Prior to my role as a Project Manager, I was originally employed by Logica in March 2000 as a Software Engineer / Analyst.  I was involved in a number of projects, including the following. This work covered the entire lifecycle, including presentations of the product to potential clients, analysis and requirements gathering, preparing specification documents, development, testing, installations, training and ongoing support.  I worked extensively with clients, on a one-on-one basis between myself and their team leaders. This work also required strong skills in time management, due to the amount of work coming in from new clients plus the existing support work.  I trained new team members on the system and development of same, and was seen as the best source of knowledge for the product on the team.",
+        "Developer - I was involved in the development and support of a number of smaller applications written in a variety of languages, such as Visual Basic, C++ and C#, with Oracle and SQL Server databases.",
+        "Developer – September 2000 – December 2001, major work on a project for a large telecommunications company in Sydney, including extensive work on back-end (C++, Tuxedo middleware), and front-end (Vantive, VBA, PL/SQL).  Also included working on Testing Team, followed by time working on Warranty and Support of the program, and then returning to back-end development.",
+        "Web Developer and various - Other small projects during the initial six months, such as creation of testing and user documentation and some web development work."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Florida",
-      "area": "Computer Engineering",
+      "institution": "University of Melbourne",
+      "area": "Science (Computer Science)",
       "studyType": "Bachelor",
-      "startDate": "2007-08-01",
-      "endDate": "2011-12-01",
-      "gpa": "3.47"
-    }
-  ],
-  "awards": [
-    {
-      "name": "Visual Studio Team Excellence Light House Award",
-      "date": "2013-04-01",
-      "awarder": "Visual Studio Team - Microsoft",
-      "summary": "Given to member of the Visual Studio team who goes above and beyond their role."
+      "startDate": "2007-01-01",
+      "endDate": "2011-07-01",
+      "gpa": "",
+      "courses": [
+        "Computer programming and design", "Networking", "Physics", "Astronomy", "Mathematics", "Electronics"
+      ]
     }
   ],
   "skills": [
     {
-      "name": "C# and .NET",
+      "name": "Website Development",
       "level": "Master",
       "keywords": [
-        "C#"
+        "HTML",
+        "CSS",
+        "Javascript",
+        "JQuery",
+        "C# and ASP.NET",
+        "MVC",
+        "PHP",
+        "Wordpress",
+        "Joomla",
+        "Custom CMS builds",
+        "Visual Studio", "Dreamweaver"
       ]
     },
     {
-      "name": "Node.js",
-      "level": "Intermediate",
+      "name": "Website Design",
+      "level": "Advanced",
       "keywords": [
-        "javascript",
-        "express"
+        "Photoshop",
+        "Illustrator"
       ]
     },
     {
-      "name": "Cloud Services",
+      "name": "Database development and administration",
       "level": "Master",
       "keywords": [
-        "PaaS",
-        "Storage",
-        "APIs"
+        "MySQL",
+        "Microsoft SQL Server",
+        "Oracle",
+        "PL/SQL",
+        "Microsoft Access",
+        "Data cleansing & mining"
       ]
     },
     {
-      "name": "iOS Application Development",
-      "level": "Intermediate",
+      "name": "Application Development",
+      "level": "Master of the Past",
       "keywords": [
-        "Objective-C"
+        "C#",
+        "Visual C++",
+        "Visual Basic",
+        "C++"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     }
-  ]
+  ],
+  "interests": [
+    {
+      "name": "Craft and Sewing"
+    },
+    {
+      "name": "Computer Gaming"
+    },
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Cooking"
+    },
+    {
+      "name": "Gadgets"
+    }
+  ],
+  "references": [  ]
 }
