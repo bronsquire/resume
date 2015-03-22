@@ -42,7 +42,7 @@
       "highlights": [
         "Working with some great clients such as Greyhound Racing NSW, Harness Racing NSW, Baseball Victoria, STA Travel, Melbourne's GPO, Jeanswest to name a few (more listed in my portfolio)",
         "Technologies have included Microsoft ASP.NET, PHP, HTML, CSS, Javascript, MySQL, Microsoft SQL Server",
-        "Much fun has been had with Jquery, Bootstrap, SASS Preprocessor, REST APIs (consuming and creating), IIS, WAMP and LAMP",
+        "Much fun has been had with JQuery, Bootstrap, SASS Preprocessor, REST APIs (consuming and creating), IIS, WAMP and LAMP",
         "Cloud services including Amazon AWS and Microsoft Azure for site deployment and storage",
         "Linux and Windows servers have both been setup, used and maintained"
       ]
@@ -56,8 +56,8 @@
       "summary": "In July 2008 I was invited to join Jeanswest on a direct contract, to perform the maintenance of their existing website and web-based CRM/Loyalty program application.  This followed on from my work at True Digital where I was first introduced to the project, and then SMART Melbourne where I had continued this work. I was involved in the maintenance of their websites, and continued to maintain the web server on which their sites all ran until the site was fully redeveloped by a third party.  I also provided consulting on a replacement system for the Jeanswest website, CRM and Email Campaigning.",
       "highlights": [
         "Technologies included PHP, HTML/CSS, MySQL and Javascript",
-        "maintenance of their email campaign system (Interspire’s Email Marketer, nee SendStudio)",
-        "Maintained the mail server (SmarterMail) which was used for their campaigns"
+        "Maintened Jeanswest's email campaign system (Interspire’s Email Marketer, nee SendStudio)",
+        "Maintained the mail server (SmarterMail) which was used for Jeanswest campaigns"
       ]
     },
     {
