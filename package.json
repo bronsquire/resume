@@ -8,7 +8,7 @@
     "email": ""
   },
   "scripts" : {
-	"test": "node ./node_modules/resume-cli/index.js --theme kendall export index -f html"
+	"test": "node ./node_modules/resume-cli/index.js export --theme kendall index -f html"
   },
   "dependencies": {
     "resume-cli": "^0.3.10"
