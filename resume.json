@@ -66,7 +66,7 @@
       "website": "http://smart.com.au",
       "startDate": "2008-07-01",
       "endDate": "2008-12-31",
-      "summary": "I joined SMART Melbourne on a contract, following the liquidation of the company True Digital, whom SMART contracted much of their digital work to.  I worked with another developer on the full development of the Greyhound Racing NSW website (www.thedogs.com.au), I acted as senior developer for this work and assisted in training up the other developer in .NET development, and I also managed the client relationship for the majority of the project.  The site was successfully launched in November 2008.",
+      "summary": "I joined SMART Melbourne on a contract, following the liquidation of the company True Digital, to whom SMART contracted much of their digital work.  I worked with another developer on the full development of the Greyhound Racing NSW website (www.thedogs.com.au), I acted as senior developer for this work and assisted in training up the other developer in .NET development, and I also managed the client relationship for the majority of the project.  The site was successfully launched in November 2008.",
       "highlights": [
         "Technologies included ASP.NET 3.5, HTML, CSS, Javascript, Microsoft SQL Server, as well as PHP and MySQL for some project work",
         "Development of an entirely new website for Greyhound Racing NSW, which had been planned to be performed by True Digital.",
@@ -76,11 +76,11 @@
     },
     {
       "company": "True Digital",
-      "position": "Technical Directory",
+      "position": "Technical Director",
       "website": "",
       "startDate": "2008-04-01",
       "endDate": "2008-07-01",
-      "summary": "My work at True Digital included the maintenance of existing websites that had been created or taken over by the company, as well as the leadership in technical direction for new projects that were underway. I acted as the system administrator of their web server (originally a Linux server running Apache), and later performed a migration of all the existing sites (10+ in use at the time) from that Linux server to a newly acquired Windows Server 2008 system.  I setup and maintained IIS 7.0, PHP, MySQL and SmarterMail on the server, and migrated the sites over, which included an upgrade to both PHP and MySQL. I was involved in the planning and technical management of the commencement of a major project, the development of a new website for Greyhound Racing NSW. Regrettably the company went into liquidation in July 2008, which led to me the contract role at SMART (see above).",
+      "summary": "My work at True Digital included the maintenance of existing websites that had been created or taken over by the company, as well as the leadership in technical direction for new projects that were underway. I acted as the system administrator of their web server (originally a Linux server running Apache), and later performed a migration of all the existing sites (10+ in use at the time) from that Linux server to a newly acquired Windows Server 2008 system.  I set up and maintained IIS 7.0, PHP, MySQL and SmarterMail on the server, and migrated the sites over, which included an upgrade to both PHP and MySQL. I was involved in the planning and technical management of the commencement of a major project, the development of a new website for Greyhound Racing NSW. Regrettably the company went into liquidation in July 2008, which led me to the contract role at SMART (see above).",
       "highlights": []
     },
     {
@@ -98,9 +98,9 @@
       "website": "http://cgi.com.au",
       "startDate": "2000-03-01",
       "endDate": "2006-09-01",
-      "summary": "Prior to my role as a Project Manager, I was originally employed by Logica in March 2000 as a Software Engineer / Analyst.  I was involved in a number of projects, including the following.",
+      "summary": "Prior to my role as a Project Manager, I was originally employed by Logica in March 2000 as a Software Engineer / Analyst.  I was involved in a number of projects for a variety of industries and clients",
       "highlights": [
-        "Prior to my role as a Project Manager, I was originally employed by Logica in March 2000 as a Software Engineer / Analyst.  I was involved in a number of projects, including the following. This work covered the entire lifecycle, including presentations of the product to potential clients, analysis and requirements gathering, preparing specification documents, development, testing, installations, training and ongoing support.  I worked extensively with clients, on a one-on-one basis between myself and their team leaders. This work also required strong skills in time management, due to the amount of work coming in from new clients plus the existing support work.  I trained new team members on the system and development of same, and was seen as the best source of knowledge for the product on the team.",
+        "This work covered the entire lifecycle, including presentations of the product to potential clients, analysis and requirements gathering, preparing specification documents, development, testing, installations, training and ongoing support.  I worked extensively with clients, on a one-on-one basis between myself and their team leaders. This work also required strong skills in time management, due to the amount of work coming in from new clients plus the existing support work.  I trained new team members on the system and development of same, and was seen as the best source of knowledge for the product on the team.",
         "Developer - I was involved in the development and support of a number of smaller applications written in a variety of languages, such as Visual Basic, C++ and C#, with Oracle and SQL Server databases.",
         "Developer – September 2000 – December 2001, major work on a project for a large telecommunications company in Sydney, including extensive work on back-end (C++, Tuxedo middleware), and front-end (Vantive, VBA, PL/SQL).  Also included working on Testing Team, followed by time working on Warranty and Support of the program, and then returning to back-end development.",
         "Web Developer and various - Other small projects during the initial six months, such as creation of testing and user documentation and some web development work."
@@ -112,8 +112,8 @@
       "institution": "University of Melbourne",
       "area": "Science (Computer Science)",
       "studyType": "Bachelor",
-      "startDate": "2007-01-01",
-      "endDate": "2011-07-01",
+      "startDate": "1997-01-01",
+      "endDate": "2001-07-01",
       "gpa": "",
       "courses": [
         "Computer programming and design", "Networking", "Physics", "Astronomy", "Mathematics", "Electronics"
