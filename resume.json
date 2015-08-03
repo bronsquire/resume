@@ -5,7 +5,7 @@
     "picture": "",
     "email": "bron@angelwebdesigns.com.au",
     "phone": "0414 431 474",
-    "website": "http://angelwebdesigns.com.au",
+    "website": "http://angelwebdesigns.com.au/portfolio",
     "summary": "I live in Melbourne, Australia, where I have been running my own web consultancy business since 2008, working on an exciting array of website and app developments for a wide range of types of client, as well as taking on a few freelancer/contractor roles to other agencies along the way.  This career focused in the web arena followed an 8 year introdution to the world as a Software Engineer at Logica (now CGI), where I took on a number of roles over the period, including software development, team leading and a fun stint as a project manager.  This time as project manager  helped confirm that that my love of the technical world was greater than my love of running a project, for now at least.",
     "location": {
       "address": "",
@@ -116,7 +116,7 @@
       "endDate": "2001-07-01",
       "gpa": "",
       "courses": [
-        "Computer programming and design", "Networking", "Physics", "Astronomy", "Mathematics", "Electronics"
+        "Computer programming and design", "Networking", "Physics", "Mathematics", "Astronomy", "Electronics"
       ]
     }
   ],
@@ -160,9 +160,8 @@
     },
     {
       "name": "Application Development",
-      "level": "Master of the Past",
+      "level": "Master in the Past",
       "keywords": [
-        "C#",
         "Visual C++",
         "Visual Basic",
         "C++"
