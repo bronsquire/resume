@@ -5,7 +5,7 @@
     "picture": "",
     "email": "bron@angelwebdesigns.com.au",
     "phone": "0414 431 474",
-    "website": "http://angelwebdesigns.com.au/portfolio",
+    "website": "https://angelwebdesigns.com.au/portfolio",
     "summary": "I live in Melbourne, Australia, where I have been running my own web consultancy business since 2008, working on an exciting array of website and app developments for a wide range of types of client, as well as taking on a few freelancer/contractor roles to other agencies along the way.  This career focused in the web arena followed an 8 year introdution to the world as a Software Engineer at Logica (now CGI), where I took on a number of roles over the period, including software development, team leading and a fun stint as a project manager.  This time as project manager  helped confirm that that my love of the technical world was greater than my love of running a project, for now at least.",
     "location": {
       "address": "",
@@ -30,17 +30,21 @@
         "username": "bronthulke",
         "url": "https://github.com/bronthulke"
       }
+      {
+        "network": "Blog",
+        "url": "http://blog.angelwebdesigns.com.au"
+      }
     ]
   },
   "work": [
     {
       "company": "Angel Web Designs",
       "position": "Full Stack Web Developer / Owner",
-      "website": "http://angelwebdesigns.com.au",
+      "website": "https://angelwebdesigns.com.au",
       "startDate": "2008-07-01",
       "summary": "Design, creation and maintenance of websites, including small and medium sized businesses, personal and not-for-profit organisations. My aim is to always build a solution which will provide maximum benefits to the client based on their specific needs, so every site is customised completely for the given customer. I also develop Windows applications to assist in business workflow. My work to date has included both direct work with clients and contracting to agencies for some projects, including:",
       "highlights": [
-        "Working with some great clients such as Greyhound Racing NSW, Harness Racing NSW, Baseball Victoria, STA Travel, Melbourne's GPO, Jeanswest to name a few (more listed in my portfolio)",
+        "Working with some great clients such as Greyhound Racing NSW, Harness Racing NSW, Baseball Victoria, STA Travel, Melbourne's GPO, Jeanswest to name a few (more listed in my <a href="https://www.angelwebdesigns.com.au/portfolio">portfolio</a>)",
         "Technologies have included Microsoft ASP.NET, PHP, HTML, CSS, Javascript, MySQL, Microsoft SQL Server",
         "Much fun has been had with JQuery, Bootstrap, SASS Preprocessor, REST APIs (consuming and creating), IIS, WAMP and LAMP",
         "Cloud services including Amazon AWS and Microsoft Azure for site deployment and storage",
@@ -125,16 +129,16 @@
       "name": "Website Development",
       "level": "Master",
       "keywords": [
+        "C# and ASP.NET",
+        "MVC",
+        "Webforms",
         "HTML",
         "CSS",
         "Javascript",
         "JQuery",
-        "C# and ASP.NET",
-        "MVC",
+        "Custom CMS builds",
         "PHP",
         "Wordpress",
-        "Joomla",
-        "Custom CMS builds",
         "Visual Studio", "Dreamweaver"
       ]
     },
@@ -143,7 +147,9 @@
       "level": "Advanced",
       "keywords": [
         "Photoshop",
-        "Illustrator"
+        "Illustrator",
+        "InVision",
+        "Axure RP"
       ]
     },
     {
@@ -160,7 +166,7 @@
     },
     {
       "name": "Application Development",
-      "level": "Master in the Past",
+      "level": "Past Master",
       "keywords": [
         "Visual C++",
         "Visual Basic",
